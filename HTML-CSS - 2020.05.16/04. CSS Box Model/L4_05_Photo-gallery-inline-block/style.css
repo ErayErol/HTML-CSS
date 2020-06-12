@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+li {
+    display: inline-block;
+    border: 0.4rem solid rgb(0, 0, 0);
+    margin: 10px;
+}
+
+img {
+    max-width: 230px;
+    max-height: 350px;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+ul {
+    margin: 0 auto;
+    max-width: 50%;
+}
