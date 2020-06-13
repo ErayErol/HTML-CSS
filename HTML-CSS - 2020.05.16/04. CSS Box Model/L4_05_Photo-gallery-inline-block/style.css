@@ -12,12 +12,12 @@ li {
     display: inline-block;
     border: 0.4rem solid rgb(0, 0, 0);
     margin: 10px;
+    vertical-align: middle;
 }
 
 img {
-    max-width: 230px;
-    max-height: 350px;
-    vertical-align: middle;
+    display: block;
+    max-width: 250px;
     padding: 10px;
 }
 
