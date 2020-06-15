@@ -1,0 +1,7 @@
+.img {
+    float: right;
+    width: 150px;
+    height: 100px;
+    margin: 5px;
+    /* vertical-align: middle; */
+}
