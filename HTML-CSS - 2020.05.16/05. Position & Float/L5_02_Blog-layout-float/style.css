@@ -4,8 +4,8 @@ html {
     padding: 50px 70px 0 70px;
     font-size: 16px;
     line-height: 1.5;
-    background-color: rgb(230, 230, 230);
-    margin: 50px 400px;
+    background-color: rgb(238, 238, 238);
+    margin: 50px 75px;
 }
 
 *,
@@ -17,6 +17,10 @@ html {
 nav,
 p.site-title {
     display: inline-block;
+}
+
+main {
+    width: 868px;
 }
 
 p.site-title {
@@ -32,11 +36,24 @@ hr {
     border: 1px solid;
 }
 
-h2 {
-    font-size: xx-large;
+h1, h2, h3 {
+    font-size: 1em/1.2;
     font-weight: 500;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, serif;
     margin-bottom: 10px;
+}
+
+a {
+    color: rgb(0, 175, 0);
+}
+
+ul{
+    margin-top: 0;
+}
+
+aside{
+    float: right;
+    padding-right: 400px;
 }
 
 blockquote {
@@ -46,7 +63,7 @@ blockquote {
     font-style: italic;
     border-left: 3px solid rgb(175, 175, 175);
     padding-left: 30px;
-    font-family: 'Times New Roman', Times, serif
+    font-family: Georgia, serif;
 }
 
 blockquote>p:first-child {
@@ -56,10 +73,15 @@ blockquote>p:first-child {
     height: 130px;
 }
 
-img:first-child {
-    float: right;
+img {
     border: 3px solid black;
     padding: 8px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.25);
+}
+
+img:first-child {
+    float: right;
     width: 200px;
     height: 330px;
     margin: 60px 0 5px 20px;
@@ -67,19 +89,19 @@ img:first-child {
 
 img:last-of-type {
     float: left;
-    border: 3px solid black;
-    padding: 8px;
-    margin: 0 20px 15px 0;
+    margin: 0 20px 25px 0;
+    height: 121px;
+    width: 170px;
 }
 
 .author {
     text-align: right;
 }
 
-p:nth-last-child(2){
-    margin:0;
+p:nth-last-child(2) {
+    margin: 0;
 }
 
-p.last-p{
+p.last-p {
     width: 890px;
 }
