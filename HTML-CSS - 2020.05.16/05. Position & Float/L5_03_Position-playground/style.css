@@ -1,0 +1,56 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+html{
+    border: 3px solid black;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    width: 300px;
+    border-radius: 5px;
+}
+
+section.first-section{
+    position: relative;
+    width: 100%;
+    height: 350px;
+    background-image: url("https://www.xmple.com/wallpaper/gradient-blue-green-linear-1920x1080-c2-00008b-00fa9a-a-60-f-14.svg");
+}
+
+section.second-section{
+    height: 510px;
+    background-color: rgb(251, 255, 0);
+}
+
+section.first-section>img {
+    position: absolute;
+    left: 700px;
+    top: 75px;
+}
+
+section.second-section>img {
+    position: absolute;
+    top: 30px;
+    left: 700px;
+    margin-bottom: 100px;
+}
+
+.fa-star{
+    position: absolute;
+    left: 972px;
+    top: 452px;
+    color: white;
+}
+
+.fa-pencil{
+    position: absolute;
+    left: 972px;
+    top: 245px;
+    color: white;
+}
+
+div{
+    position: relative;
+}
