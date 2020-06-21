@@ -1,0 +1,38 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+ul {
+    display: inline-block;
+}
+
+ul,
+.fa {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    border-radius: 50%;
+}
+
+
+li {
+    margin-left: 15px;
+    display: inline-block;
+    list-style: none;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    background-color: rgb(240, 240, 240);
+}
+
+.fa {
+    color: black;
+}
+
+.fa:hover {
+    color: blue;
+}
