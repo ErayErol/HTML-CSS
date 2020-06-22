@@ -33,6 +33,26 @@ li {
     color: black;
 }
 
-.fa:hover {
-    color: blue;
+.fa:hover{
+    cursor: pointer;
+}
+
+.fa-facebook-square:hover {
+    color: rgb(66, 103, 178);
+}
+
+.fa-twitter:hover {
+    color: rgb(29, 161, 242);
+}
+
+.fa-google-plus-circle:hover {
+    color: rgb(219,68,55);
+}
+
+.fa-linkedin-square:hover {
+    color: rgb(40,103,178);
+}
+
+.fa-instagram:hover {
+    color: rgb(64,93,230);
 }
