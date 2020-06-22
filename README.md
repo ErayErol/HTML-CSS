@@ -1,11 +1,8 @@
 # HTML-CSS
 SoftUni course from module "Frond-End" May 2020
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <style>
+<body>
+        <style>
         @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 
         ul {
@@ -65,9 +62,6 @@ SoftUni course from module "Frond-End" May 2020
             color: rgb(64, 93, 230);
         }
     </style>
-</head>
-
-<body>
     <ul>
         <li>
             <a href=""></a>
@@ -91,5 +85,3 @@ SoftUni course from module "Frond-End" May 2020
         </li>
     </ul>
 </body>
-
-</html>
