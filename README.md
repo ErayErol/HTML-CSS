@@ -1,87 +1,289 @@
-# HTML-CSS
-SoftUni course from module "Frond-End" May 2020
+# <a href="https://softuni.bg"><p align="center">
+ <p align="center"><img src="http://spaceappschallengebulgaria.eu/sites/default/files/softuni.png" width = 250 /></p><p></a>
 
-<body>
-        <style>
-        @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+# <a href="https://softuni.bg/trainings/2983/html-and-css-may-2020/internal"><p align="center">:book:HTML & CSS<p></a>
 
-        ul {
-            display: inline-block;
-        }
+<table>
+<tr>
+  <th>
+   <p align="center">
+    №
+  </th>
+  <th>
+   <p align="center">
+    :books:Lection
+  </th>
+  <th>
+   <p align="center">
+    :pencil:Lab
+  </th>
+  <th>
+   <p align="center">
+   :pencil:Exercise
+  </th>
+</tr>
+  
+<tr>
+  <td>
+   <p align="center">
+    :one:
+  </td>
+  <th>
+    This
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/01.%20This/LAB">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/01.%20This/Exercises">✅
+         </a>
+  </td>
+</tr>
 
-        ul,
-        .fa {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-        }
+<tr>
+  <td>
+   <p align="center">
+    :two:
+  </td>
+  <th>
+    Object Composition
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/02.%20Object%20Composition/LAB">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/02.%20Object%20Composition/Exercises">✅
+         </a>
+  </td>
+</tr>
 
-        a {
-            border-radius: 50%;
-        }
+<tr>
+  <td>
+   <p align="center">
+    :three:
+  </td>
+  <th>
+    Prototypes and Inheritance
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/03.%20Prototypes%20and%20Inheritance/LAB">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/03.%20Prototypes%20and%20Inheritance/Exercises">✅
+         </a>
+  </td>
+</tr>
 
+<tr>
+  <td>
+   <p align="center">
+    :four:
+  </td>
+  <th>
+    REST Services and Ajax
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/04.%20REST%20Services%20and%20Ajax/LAB">✅
+       </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/04.%20REST%20Services%20and%20Ajax/Exercises">✅
+         </a>
+  </td>
+</tr>
 
-        li {
-            margin-left: 15px;
-            display: inline-block;
-            list-style: none;
-            position: relative;
-            height: 50px;
-            width: 50px;
-            -moz-border-radius: 50%;
-            -webkit-border-radius: 50%;
-            background-color: rgb(240, 240, 240);
-        }
+<tr>
+  <td>
+   <p align="center">
+    :five:
+  </td>
+  <th>
+    Asynchronous Programming
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/05.%20Asynchronous%20Programming/LAB">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/05.%20Asynchronous%20Programming/Exercises">✅
+         </a>
+  </td>
+</tr>
 
-        .fa {
-            color: black;
-        }
+<tr>
+  <td>
+   <p align="center">
+    :six:
+  </td>
+  <th>
+    Remote Databases
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/06.%20Remote%20Databases/LAB">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/06.%20Remote%20Databases/Exercises">✅
+         </a>
+  </td>
+</tr>
 
-        .fa:hover {
-            cursor: pointer;
-        }
+<tr>
+  <td>
+   <p align="center">
+    :seven:
+  </td>
+  <th>
+    Templating
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/07.%20Templating/LAB">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/07.%20Templating/Exercises">✅
+         </a>
+  </td>
+</tr>
 
-        .fa-facebook-square:hover {
-            color: rgb(66, 103, 178);
-        }
+<tr>
+  <td>
+   <p align="center">
+    :eight:
+  </td>
+  <th>
+    Routing and Architecture
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/08.%20Routing%20and%20Architecture/LAB">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/08.%20Routing%20and%20Architecture/Exercises">✅
+         </a>
+  </td>
+</tr>
 
-        .fa-twitter:hover {
-            color: rgb(29, 161, 242);
-        }
+<tr>
+  <td>
+   <p align="center">
+    :nine:
+  </td>
+  <th>
+    Workshop
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="">❎
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/09.%20Workshop">✅
+         </a>
+  </td>
+</tr>
 
-        .fa-google-plus-circle:hover {
-            color: rgb(219, 68, 55);
-        }
+<tr>
+  <td>
+   <p align="center">
+    :one::zero:
+  </td>
+  <th>
+    Design Patterns and Best Practices
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/10.%20Design%20Patterns%20and%20Best%20Practices">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="">❎
+         </a>
+  </td>
+</tr>
 
-        .fa-linkedin-square:hover {
-            color: rgb(40, 103, 178);
-        }
+<tr>
+  <td>
+   <p align="center">
+    :one::one:
+  </td>
+  <th>
+    Webpack
+  </th>
+  <td>
+   <p align="center">
+       <a 
+         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/11.%20Webpack">✅
+         </a>
+  </td>
+  <td> 
+   <p align="center">
+         <a 
+         href="">❎
+         </a>
+  </td>
+</tr>
 
-        .fa-instagram:hover {
-            color: rgb(64, 93, 230);
-        }
-    </style>
-    <ul>
-        <li>
-            <a href=""></a>
-            <i class="fa fa-facebook-square fa-lg" aria-hidden="true"></i>
-        </li>
-        <li>
-            <a href=""></a>
-            <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
-        </li>
-        <li>
-            <a href=""></a>
-            <i class="fa fa-google-plus-circle fa-lg" aria-hidden="true"></i>
-        </li>
-        <li>
-            <a href=""></a>
-            <i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>
-        </li>
-        <li>
-            <a href=""></a>
-            <i class="fa fa-instagram fa-lg" aria-hidden="true"></i>
-        </li>
-    </ul>
-</body>
+<table>
+<tr>
+ <th>
+  <p align="center">
+  :books:
+ </th>
+ <th>
+  <p align="center">
+  :pencil:Solutions
+ </th>
+</tr>
+<tr>
+  <th>
+   <p align="center">
+   Exams
+ </th>
+  <td>
+   <p align="center">
+  <a 
+     href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202020.02.24/12.%20Exams" >✅
+  </a>
+</table>
