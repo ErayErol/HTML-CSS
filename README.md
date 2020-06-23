@@ -287,12 +287,3 @@
      href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202020.02.24/12.%20Exams" >✅
   </a>
 </table>
-
-
-<style>
-#foo {color: red}
-</style>
-
-<p id="foo">foo</p>
-
-<p style="color: blue">bar</p>
