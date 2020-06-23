@@ -15,10 +15,6 @@
   </th>
   <th>
    <p align="center">
-    :pencil:Lab
-  </th>
-  <th>
-   <p align="center">
    :pencil:Exercise
   </th>
 </tr>
@@ -29,18 +25,12 @@
     :one:
   </td>
   <th>
-    This
+     Introduction to HTML and CSS
   </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/01.%20This/LAB">✅
-         </a>
-  </td>
   <td> 
    <p align="center">
          <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/01.%20This/Exercises">✅
+         href="https://github.com/ErayErol/HTML-CSS/tree/master/HTML-CSS%20-%202020.05.16/01.%20Introduction%20to%20HTML%20and%20CSS">✅
          </a>
   </td>
 </tr>
@@ -51,18 +41,12 @@
     :two:
   </td>
   <th>
-    Object Composition
+     HTML Structure
   </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/02.%20Object%20Composition/LAB">✅
-         </a>
-  </td>
   <td> 
    <p align="center">
          <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/02.%20Object%20Composition/Exercises">✅
+         href="https://github.com/ErayErol/HTML-CSS/tree/master/HTML-CSS%20-%202020.05.16/02.%20HTML%20Structure">✅
          </a>
   </td>
 </tr>
@@ -73,18 +57,12 @@
     :three:
   </td>
   <th>
-    Prototypes and Inheritance
+     CSS and Typography
   </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/03.%20Prototypes%20and%20Inheritance/LAB">✅
-         </a>
-  </td>
   <td> 
    <p align="center">
          <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/03.%20Prototypes%20and%20Inheritance/Exercises">✅
+         href="https://github.com/ErayErol/HTML-CSS/tree/master/HTML-CSS%20-%202020.05.16/03.%20CSS%20and%20Typography">✅
          </a>
   </td>
 </tr>
@@ -95,18 +73,12 @@
     :four:
   </td>
   <th>
-    REST Services and Ajax
+     CSS Box Model
   </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/04.%20REST%20Services%20and%20Ajax/LAB">✅
-       </a>
-  </td>
   <td> 
    <p align="center">
          <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/04.%20REST%20Services%20and%20Ajax/Exercises">✅
+         href="https://github.com/ErayErol/HTML-CSS/tree/master/HTML-CSS%20-%202020.05.16/04.%20CSS%20Box%20Model">✅
          </a>
   </td>
 </tr>
@@ -117,18 +89,12 @@
     :five:
   </td>
   <th>
-    Asynchronous Programming
+     Position & Float
   </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/05.%20Asynchronous%20Programming/LAB">✅
-         </a>
-  </td>
   <td> 
    <p align="center">
          <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/05.%20Asynchronous%20Programming/Exercises">✅
+         href="https://github.com/ErayErol/HTML-CSS/tree/master/HTML-CSS%20-%202020.05.16/05.%20Position%20%26%20Float">✅
          </a>
   </td>
 </tr>
@@ -139,131 +105,16 @@
     :six:
   </td>
   <th>
-    Remote Databases
+     Flexbox
   </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/06.%20Remote%20Databases/LAB">✅
-         </a>
-  </td>
   <td> 
    <p align="center">
          <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/06.%20Remote%20Databases/Exercises">✅
+         href="https://github.com/ErayErol/HTML-CSS/tree/master/HTML-CSS%20-%202020.05.16/06.%20Flexbox">✅
          </a>
   </td>
 </tr>
-
-<tr>
-  <td>
-   <p align="center">
-    :seven:
-  </td>
-  <th>
-    Templating
-  </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/07.%20Templating/LAB">✅
-         </a>
-  </td>
-  <td> 
-   <p align="center">
-         <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/07.%20Templating/Exercises">✅
-         </a>
-  </td>
-</tr>
-
-<tr>
-  <td>
-   <p align="center">
-    :eight:
-  </td>
-  <th>
-    Routing and Architecture
-  </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/08.%20Routing%20and%20Architecture/LAB">✅
-         </a>
-  </td>
-  <td> 
-   <p align="center">
-         <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/08.%20Routing%20and%20Architecture/Exercises">✅
-         </a>
-  </td>
-</tr>
-
-<tr>
-  <td>
-   <p align="center">
-    :nine:
-  </td>
-  <th>
-    Workshop
-  </th>
-  <td>
-   <p align="center">
-       <a 
-         href="">❎
-         </a>
-  </td>
-  <td> 
-   <p align="center">
-         <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/09.%20Workshop">✅
-         </a>
-  </td>
-</tr>
-
-<tr>
-  <td>
-   <p align="center">
-    :one::zero:
-  </td>
-  <th>
-    Design Patterns and Best Practices
-  </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/10.%20Design%20Patterns%20and%20Best%20Practices">✅
-         </a>
-  </td>
-  <td> 
-   <p align="center">
-         <a 
-         href="">❎
-         </a>
-  </td>
-</tr>
-
-<tr>
-  <td>
-   <p align="center">
-    :one::one:
-  </td>
-  <th>
-    Webpack
-  </th>
-  <td>
-   <p align="center">
-       <a 
-         href="https://github.com/ErayErol/JS-Applications/tree/master/JS%20Applications%20-%202019.10.28/11.%20Webpack">✅
-         </a>
-  </td>
-  <td> 
-   <p align="center">
-         <a 
-         href="">❎
-         </a>
-  </td>
-</tr>
+</table>
 
 <table>
 <tr>
