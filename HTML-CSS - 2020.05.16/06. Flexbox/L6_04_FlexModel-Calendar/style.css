@@ -1,0 +1,93 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+div,
+section,
+span,
+.week {
+    display: flex;
+}
+
+div {
+    max-width: 65vw;
+}
+
+span {
+    width: 150px;
+    position: absolute;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 30px 30px 80px 30px;
+}
+
+.notes {
+    flex-direction: column;
+}
+
+.week {
+    position: relative;
+}
+
+section.week>span:nth-child(1) {
+    width: 746px;
+}
+
+span:nth-child(2),
+span:nth-child(3),
+span:nth-child(4),
+span:nth-child(5),
+span:nth-child(6) {
+    top: 129px;
+}
+
+span:nth-child(3) {
+    left: 149px;
+}
+
+span:nth-child(4) {
+    left: 298px;
+}
+
+span:nth-child(5) {
+    left: 447px;
+}
+
+span:nth-child(6) {
+    left: 596px;
+}
+
+span:nth-child(7) {
+    top: 258px;
+    width: 746px;
+}
+
+span:nth-child(8),
+span:nth-child(9) {
+    top: 387px;
+    width: 373.5px;
+}
+
+span:nth-child(9) {
+    left: 372.5px;
+}
+
+section.notes>span:nth-child(1) {
+    top: 8px;
+    left: 753px;
+    width: 200px;
+    height: 259px;
+}
+
+section.notes>span:nth-child(2) {
+    top: 266px;
+    left: 753px;
+    width: 200px;
+    height: 259px;
+}
