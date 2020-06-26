@@ -2,19 +2,31 @@ html {
     box-sizing: border-box;
 }
 
+div,
+section,
+.workweek,
+.weekend,
+.workday,
+.weekend-day,
+.reminders,
+.special-dates {
+    display: flex;
+    justify-content: center;
+}
+
 .container {
     max-width: 65vw;
     margin: 0 auto;
 }
 
-div,
-section {
-    display: flex;
-}
-
 span {
     border: 1px solid black;
-    padding-top: 20px;
+    padding: 20px;
+}
+
+.notes {
+    flex-direction: column;
+    text-transform: uppercase;
 }
 
 .week {
@@ -22,30 +34,19 @@ span {
     min-height: 500px;
 }
 
-.weekend,
-.workweek{
+.workweek,
+.weekend {
     width: 100%;
-    display: flex;
-    justify-content: center;
-}
-
-.weekend-day,
-.workday {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-}
-
-.notes {
-    flex-direction: column;
-    flex: 0 1 200px;
 }
 
 .reminders,
 .special-dates {
-    flex: 1;
-    text-transform: uppercase;
-    display: flex;
-    justify-content: center;
     padding-top: 10px;
+}
+
+.workday,
+.weekend-day,
+.reminders,
+.special-dates {
+    flex: 1;
 }
