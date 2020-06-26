@@ -10,23 +10,16 @@ html {
 div,
 section {
     display: flex;
-    align-items: center;
 }
 
 span {
     border: 1px solid black;
+    padding-top: 20px;
 }
 
 .week {
     flex-flow: row wrap;
-    flex: 1;
     min-height: 500px;
-}
-
-.week span {
-    padding-top: 20px;
-    display: flex;
-    align-self:stretch;
 }
 
 .weekend,
@@ -45,14 +38,12 @@ span {
 
 .notes {
     flex-direction: column;
-    align-self: stretch;
     flex: 0 1 200px;
 }
 
 .reminders,
 .special-dates {
     flex: 1;
-    width: 100%;
     text-transform: uppercase;
     display: flex;
     justify-content: center;
