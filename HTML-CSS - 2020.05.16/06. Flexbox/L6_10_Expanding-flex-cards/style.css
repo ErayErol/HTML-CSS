@@ -22,18 +22,19 @@ img {
 }
 
 .normal{
-    width: 500px;
+    width: 520px;
     height: 350px;
-    border-left: 15px solid black;
-    border-right: 15px solid black;
+    box-shadow: -13px 0px 0px 0pt black, 13px 0px 0px 0pt black;
 }
 
 .small-1 {
     background: url("./images/Image1.jpg") center center;
+    margin-right: 20px;
 }
 
 .small-3 {
     background: url("./images/Image3.jpg") center center;
+    margin-left: 20px;
 }
 
 .small-4 {
