@@ -1,15 +1,19 @@
 @media (min-width: 600px) {
-    .mq-width:after{
+    .mq-width:after {
         content: "Viewport width is larger than 600px";
         color: green;
     }
+}
 
-    .mq-height::after{
+@media (min-height: 600px) {
+    .mq-height::after {
         content: "Viewport width is larger than 600px";
         color: green;
     }
+}
 
-    .mq-ar::after{
+@media (min-width: 800px) and (min-height: 500px) {
+    .mq-ar::after {
         content: "Aspect Ratio is larger than 8/5";
         color: green;
     }
