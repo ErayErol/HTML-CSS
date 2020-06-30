@@ -9,9 +9,9 @@ section::after {
 }
 
 
-@media (min-height: 600px) {
+@media (min-height: 800px) {
     section.mq-height::after {
-        content: ' Viewport height is larger than 600px'
+        content: ' Viewport height is larger than 800px'
     }
 }
 
@@ -20,3 +20,4 @@ section::after {
         content: ' Aspect ratio is larger than 8/5';
     }
 }
+
