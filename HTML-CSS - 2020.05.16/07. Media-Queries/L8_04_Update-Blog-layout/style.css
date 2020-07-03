@@ -1,3 +1,5 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
 html {
     font-size: 23px;
     margin: 5rem 5rem;
@@ -6,6 +8,7 @@ html {
     background-color: rgb(230, 230, 230);
 }
 
+i,
 label,
 input {
     visibility: hidden;
@@ -194,16 +197,16 @@ aside li {
         visibility: visible;
         position: absolute;
         left: 50%;
-        top: 100%;
-        transform: translate(-50%, 100%);
+        top: 80%;
+        transform: translate(-50%, 80%);
         font-weight: bold;
     }
 
-    input {
+    i {
         visibility: visible;
         position: absolute;
-        left: 43%;
-        top: 34.7%;
+        left: 45%;
+        top: 38.5%;
         transform: translate(-50%, -50%);
         font-weight: bold;
     }
@@ -230,13 +233,6 @@ aside li {
         margin-top: 330px;
     }
 
-    img:first-child {
-        width: 163px;
-        float: right;
-        height: 250px;
-        margin: 57px 0 50px 70px;
-    }
-
     .heading-2-3 {
         margin-top: 40px;
     }
@@ -253,14 +249,12 @@ aside li {
         left: 52%;
         top: 101%;
         font-weight: bold;
-        transform: translate(-50%, 101%);
     }
 
-    input {
-        left: 43%;
-        top: 31.5%;
+    i {
+        left: 45%;
+        top: 34.09%;
         font-weight: bold;
-        transform: translate(-50%, -50%);
     }
 
     header ul {
