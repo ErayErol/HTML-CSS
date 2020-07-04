@@ -1,28 +1,35 @@
 @media (max-width: 768px) {
     .main-movie {
-        display: block;
+        height: 300px;
     }
 
     .main-movie-poster {
-        visibility: hidden;
+        display: none;
     }
 
     .main-movie-trailer {
-        width: 69%;
-        margin-left: -435px;
+        height: 500px;
     }
 
     .main-movie-trailer iframe {
-        width: 145%;
-        height: 59%;
+        width: 500px;
+        height: 300px;
     }
 
     .main-movie ul {
-        margin-bottom: -270px;
+        width: 100%;
+        justify-content: center;
+        display: flex;
     }
 
     .movie {
         height: 210px;
+    }
+
+    .movies {
+        width: 100%;
+        color: rgb(226, 182, 22);
+        margin: 50px 0 200px 0;
     }
 
     .classics {
@@ -34,13 +41,16 @@
 
 @media (max-width: 414px) {
 
+    .main-movie-poster {
+        display: none;
+    }
+
     header {
-        display: block;
-        justify-content: space-between;
-        padding: 0.5em 3em 0.5em 3em;
-        background-color: rgb(18, 18, 18);
-        width: 111%;
-        margin-bottom: 30px;
+        width: 413px;
+    }
+
+    .main-movie ul li {
+        padding: 0 0px;
     }
 
     .main-movie {
@@ -48,17 +58,8 @@
     }
 
     .main-movie-trailer iframe {
-        width: 498px;
-        height: 70%;
-    }
-
-    .main-movie-trailer {
-        width: 100%;
-        margin-left: -546px;
-    }
-
-    .main-movie {
-        height: 290px;
+        width: 413px;
+        height: 348px;
     }
 
     .movie-list {
@@ -69,23 +70,20 @@
         height: 100%;
         width: 100%;
         display: flex;
-        margin-left: 21px;
     }
 
-    .classics {
-        margin: -150px 0 50px 0;
+    .movie img {
+        padding: 0 20px;
     }
 
-    .movies h2 {
-        padding: 10px;
-        text-align: center;
-        margin-left: 60px;
+    .movies {
+        width: 100%;
+        color: rgb(226, 182, 22);
+        margin: 100px 0 200px 0;
     }
 
     footer {
-        color: rgb(200, 200, 200);
-        margin-top: 40px;
-        padding-top: 30px;
-        margin-left: 70px;
+        color: rgb(200,200,200);
+        margin-top: -80px;
     }
 }
