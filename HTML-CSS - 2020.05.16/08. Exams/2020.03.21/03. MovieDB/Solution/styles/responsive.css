@@ -1,0 +1,91 @@
+@media (max-width: 768px) {
+    .main-movie {
+        display: block;
+    }
+
+    .main-movie-poster {
+        visibility: hidden;
+    }
+
+    .main-movie-trailer {
+        width: 69%;
+        margin-left: -435px;
+    }
+
+    .main-movie-trailer iframe {
+        width: 145%;
+        height: 59%;
+    }
+
+    .main-movie ul {
+        margin-bottom: -270px;
+    }
+
+    .movie {
+        height: 210px;
+    }
+
+    .classics {
+        margin-top: -50px;
+        margin-bottom: 170px;
+    }
+}
+
+
+@media (max-width: 414px) {
+
+    header {
+        display: block;
+        justify-content: space-between;
+        padding: 0.5em 3em 0.5em 3em;
+        background-color: rgb(18, 18, 18);
+        width: 111%;
+        margin-bottom: 30px;
+    }
+
+    .main-movie {
+        display: block;
+    }
+
+    .main-movie-trailer iframe {
+        width: 498px;
+        height: 70%;
+    }
+
+    .main-movie-trailer {
+        width: 100%;
+        margin-left: -546px;
+    }
+
+    .main-movie {
+        height: 290px;
+    }
+
+    .movie-list {
+        flex-direction: column;
+    }
+
+    .movie {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        margin-left: 21px;
+    }
+
+    .classics {
+        margin: -150px 0 50px 0;
+    }
+
+    .movies h2 {
+        padding: 10px;
+        text-align: center;
+        margin-left: 60px;
+    }
+
+    footer {
+        color: rgb(200, 200, 200);
+        margin-top: 40px;
+        padding-top: 30px;
+        margin-left: 70px;
+    }
+}
