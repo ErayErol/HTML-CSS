@@ -3,6 +3,8 @@
 
 # <a href="https://softuni.bg/trainings/2983/html-and-css-may-2020/internal"><p align="center">:book:HTML & CSS<p></a>
 
+# <a href="https://softuni.bg/certificates/details/84903/376c266d"><p align="center"> :clipboard:Certificate<p></a>
+
 <table>
 <tr>
   <th>
